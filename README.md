@@ -1,50 +1,21 @@
 # Hi there, I'm Prudhvi Kumar Kota 👋
 
-### 🚀 Lead Engineer | Java | Spring Boot | Microservices | AWS
+### 🚀 Senior Engineer | Java | Spring Boot | Microservices | AWS
 
-I'm a **Lead Engineer with 11+ years of experience** in designing, developing, and modernizing enterprise applications using Java, Spring Boot, microservices, and cloud technologies.
+I'm a **Senior Engineer with 11+ years of experience** in designing, developing, and modernizing enterprise applications using Java, Spring Boot, microservices, and cloud technologies.
 
 I enjoy solving complex engineering problems, improving application performance, building scalable distributed systems, and helping teams deliver reliable software.
 
 - 🔭 **Currently working on:** Enterprise applications, microservices architecture, and cloud-based solutions.
 - 🌱 **Currently learning:** Spring AI, Retrieval-Augmented Generation (RAG), and Large Language Model (LLM) integration.
 - 💡 **Interested in:** Distributed systems, system design, event-driven architecture, performance optimization, and cloud-native development.
-- 👨‍💻 **Tech stack:** Java 8/11/17/21, Spring Boot, Spring Data JPA, REST APIs, Microservices, AWS, Docker, Kubernetes, and SQL.
+- 👨‍💻 **Tech stack:** Java, Spring Boot, Spring Data JPA, REST APIs, Microservices, AWS, Docker, Kubernetes, and SQL.
 - ☁️ **Cloud & DevOps:** AWS Lambda, SQS, SNS, RDS, S3, CloudWatch, Docker, and CI/CD.
 - 🧪 **Testing & Quality:** JUnit 5, Mockito, integration testing, SonarQube, and clean code practices.
 - 🤝 **Open to:** Collaborating on Java, Spring Boot, microservices, cloud-native, and AI-powered projects.
 - 🌍 **Career interests:** Lead Engineer and Senior Backend Engineer opportunities, including international opportunities.
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prudhvikumar-kota-11615860/)
 
----
-
-### 🛠️ Technologies & Tools
-
-**Languages**
-  
-Java · SQL · TypeScript
-
-**Backend & Architecture**
-
-Spring Boot · Spring Framework · Spring Data JPA · Hibernate · REST APIs · Microservices · Spring Batch · Kafka · AWS SQS · Event-Driven Architecture
-
-**Cloud & DevOps**
-
-AWS · Docker · Kubernetes · GitLab CI/CD · Jenkins · GitHub Actions · Terraform
-
-**Databases & Caching**
-
-MySQL · PostgreSQL · Oracle · MongoDB · Redis
-
-**Testing & Observability**
-
-JUnit · Mockito · SonarQube · AWS X-Ray · CloudWatch · Swagger / OpenAPI
-
-**AI & Modern Development**
-
-Spring AI · RAG · Vector Databases · LLM Integration · GitHub Copilot
-
----
 
 ### 🚀 What I Enjoy Building
 
